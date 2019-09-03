@@ -12,7 +12,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 #ini paket untuk menjalankan tools
-dicky.sh
+Hackids.sh
 echo
 clear
 echo
